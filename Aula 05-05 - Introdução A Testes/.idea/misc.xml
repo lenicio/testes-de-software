@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (Testes de Software)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Aula 05-05 - Introdução A Testes)" project-jdk-type="Python SDK" />
 </project>
